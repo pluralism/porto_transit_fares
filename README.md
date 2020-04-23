@@ -7,4 +7,6 @@ The best combination of tickets is calculated by using a variation of the **Rod 
 
 **Dijkstra's algorithm with min heap** was also implemented to calculate the distance between two given zones.
 
+The paper entitled **The Steiner problem in graphs** can be read [here](https://www.academia.edu/8260243/The_Steiner_problem_in_graphs).
+
 Developed in QT C++.
